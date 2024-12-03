@@ -5,7 +5,7 @@
 
   <div style="flex: 1; text-align: center; padding-right: 10px;">
     <h3>A passionate MERN stack developer,<br>Learning and development is always in progress...</h3>
-    <img src="https://komarev.com/ghpvc/?username=habibimamrifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+   
   </div>
 
   <div style="flex: 1; text-align: center;">
@@ -14,7 +14,7 @@
 
 </div>
 
-
+ <img src="https://komarev.com/ghpvc/?username=habibimamrifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 
 <h3 align="left">Connect with me:</h3>
