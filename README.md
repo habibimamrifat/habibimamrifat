@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abu Saleh Mohammad Habib Imam Rifat</h1>
 
 
-<table>
-  <tr>
-    <td align="center" style="vertical-align: top;">
-      <h3>A passionate MERN stack developer,<br>Learning and development is always in progress...</h3>
-      <img src="https://komarev.com/ghpvc/?username=habibimamrifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    </td>
-    <td align="center" style="vertical-align: top;">
-      <img src="https://github.com/habibimamrifat/habibimamrifat/blob/main/ebichu-tired.gif" alt="Ebichu Tired GIF" width="300" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div style="flex: 1; text-align: center; padding-right: 10px;">
+    <h3>A passionate MERN stack developer,<br>Learning and development is always in progress...</h3>
+    <img src="https://komarev.com/ghpvc/?username=habibimamrifat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/habibimamrifat/habibimamrifat/blob/main/ebichu-tired.gif" alt="Ebichu Tired GIF" style="max-width: 100%; height: auto;" />
+  </div>
+
+</div>
+
 
 
 
